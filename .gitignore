@@ -2,9 +2,6 @@
 .venv/
 venv/
 
-# Zugangsdaten
-.env
-
 # Python-Dateien
 __pycache__/
 *.pyc
