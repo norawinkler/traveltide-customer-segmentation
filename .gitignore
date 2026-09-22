@@ -1,0 +1,23 @@
+# Virtuelle Python-Umgebung
+.venv/
+venv/
+
+# Zugangsdaten
+.env
+
+# Python-Dateien
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Lokale Daten
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Betriebssystem und VS Code
+.DS_Store
+Thumbs.db
+.vscode/
