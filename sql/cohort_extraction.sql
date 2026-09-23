@@ -57,7 +57,7 @@ WHERE
     FROM
       active_users
   )
-  AND session_start >= DATE '2023-01-04'
+  AND session_start >= '2023-01-04'
 ORDER BY
   session_start;
 
@@ -91,7 +91,7 @@ WITH
         FROM
           active_users
       )
-      AND session_start >= DATE '2023-01-04'
+      AND session_start >= '2023-01-04'
   )
   
 SELECT
@@ -140,7 +140,7 @@ WITH
         FROM
           active_users
       )
-      AND session_start >= DATE '2023-01-04'
+      AND session_start >= '2023-01-04'
   )
   
 SELECT
