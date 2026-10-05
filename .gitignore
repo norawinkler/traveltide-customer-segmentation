@@ -1,20 +1,21 @@
-# Virtuelle Python-Umgebung
+# Python
+__pycache__/
+*.py[cod]
 .venv/
 venv/
-
-# Python-Dateien
-__pycache__/
-*.pyc
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Lokale Daten
-data/*.csv
-data/*.xlsx
-data/*.parquet
+# VS Code
+.vscode/
 
-# Betriebssystem und VS Code
+# Operating system
 .DS_Store
 Thumbs.db
-.vscode/
+
+# Environment variables
+.env
+
+# Data files
+data/raw/*
