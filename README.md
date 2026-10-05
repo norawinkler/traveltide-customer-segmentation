@@ -60,7 +60,6 @@ Booking conversion, repeat bookings, additional revenue and perk redemption shou
 - [Exploratory Data Analysis](notebooks/02_exploratory_data_analysis.ipynb)
 - [Customer Segmentation](notebooks/03_customer_segmentation.ipynb)
 - [Perk Assignment](notebooks/04_perk_assignment.ipynb)
-- [Executive Summary](LINK-TO-BE-ADDED)
 - [Presentation](LINK-TO-BE-ADDED)
 
 ## Installation
